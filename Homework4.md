@@ -1,5 +1,5 @@
 
-# Homework 4
+# Homework 4 (Can be done in group of 2 people)
 
 ## Input
 
@@ -16,6 +16,9 @@ Eg.: 2017xxx_2017yyy_HW4.zip
 
 ### Meaning of double is a floating point number, it can be negaitive as well.
 
+### Rank taken as no. of columns, has some problem in it. You could fix the errror that comes by taking the transpose of matrix
+
+(Do it as mentioned in the document. You can then transpose the matrix and repeat the same steps. Report the minimum of two as the final answer.)
 
 
 ## FAQ
@@ -23,6 +26,11 @@ Eg.: 2017xxx_2017yyy_HW4.zip
 ### Can I create my own function?
 
 Ans. Yes you can create other functions as well. There is no restriction on that.
+
+### Do we only have to consider square matrices?
+
+No, it can be rectangular.  You may need to transpose the matrix to get correct answer.
+
 
 ### Do we need to follow the pseudocode strictly? 
 
